@@ -4,8 +4,10 @@
 ## Overview
 This React project contains three interactive components:
 1. **To-Do List** - A task management app to add, remove, and track tasks.
+
    https://github.com/user-attachments/assets/8112fd0b-77d1-49b5-b328-c726f5e0b74a
-2. **Digital Clock** - A real-time digital clock displaying the current time.
+   
+3. **Digital Clock** - A real-time digital clock displaying the current time.
 
 https://github.com/user-attachments/assets/054c3185-e2cb-40a5-bca9-6e418a295d30
 
